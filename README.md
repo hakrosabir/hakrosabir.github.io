@@ -1,7 +1,3 @@
-
-# Hi There
-## It's nice to meet you
-
-I' m currently student at [_Quaid-e-Awam University(www.quest.edu.pk) studying Computer Systems Engineering_
-
+#Hi There,
+I am _Sabir Hakro_ and studing **computer systems engineering** at [QUEST-Nawabshah](www.quest.edu.pk)
 
