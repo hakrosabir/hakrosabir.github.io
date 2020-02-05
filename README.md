@@ -1,6 +1,6 @@
 
-# (:wave:) **Hi There**, <h1>
-## **It's nice to meet you **<h2>
+# :wave: **Hi There**
+## It's nice to meet you
 I' m currently student at _Quaid-e-Awam University studying Computer Systems Engineering_
 
 
