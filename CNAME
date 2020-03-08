@@ -1,7 +1,1 @@
-
-
-$ dig www.sabirhakro.me +nostats +nocomments +nocmd
-  > ;www.sabirhakro.me.                     IN      @
-  > www.sabirhakro.me.              3592    IN      CNAME   hakrosabir.github.io.
-  > hakrosabir.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-  >  GITHUB-PAGES-SERVER .         22      IN      @       192.30.252.153
+sabirhakro.me
